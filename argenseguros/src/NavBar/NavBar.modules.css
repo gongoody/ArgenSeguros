@@ -1,0 +1,36 @@
+.navbar-container{
+    display: flex;
+    align-items: center;
+    width: 98vw;
+    
+}
+
+.navbar-logo{
+    width: 8vw;
+    height: 16vh;
+    margin: 3em;
+}
+
+.navbar-lema{
+    width: 20vw;
+    height: 15vh;
+}
+
+.navbar-lema-container{
+    background-color: royalblue;
+}
+
+.navbar-menu-container{
+    display: flex;
+}
+
+.navbar-menu-item{
+    margin: 0.5em;
+}
+
+.navbar-menu-chat{
+    border-style: solid;
+    border-width: 1px;
+    margin: 1em;
+    padding: 0.8em;
+}

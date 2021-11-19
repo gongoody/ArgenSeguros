@@ -1,0 +1,15 @@
+.argenseguros-container{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.argenseguros-text{
+    background-color: salmon;
+    width: 50%;
+    color: royalblue;
+}
+
+.argenseguros-img{
+    width: 50%;
+}
